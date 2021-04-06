@@ -1,4 +1,4 @@
-# 8-AutoSignMachine
+# -AutoSignMachine
 
 
  联通挂机积分脚本
